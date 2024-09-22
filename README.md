@@ -1,6 +1,11 @@
-# React + Vite
+# React + Vite + GSAP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![image](https://github.com/user-attachments/assets/efbbc9b7-6f3c-4b88-b940-41cc716e1e46)
+
+
+
+Page transition using GSAP, its simple elegant transition clean look 
+Transition with Bars
 
 Currently, two official plugins are available:
 
