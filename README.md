@@ -1,6 +1,7 @@
 # React + Vite + GSAP
 
-![image](https://github.com/user-attachments/assets/e57820f7-b390-405e-a084-39dda758aa7b)
+![image](https://github.com/user-attachments/assets/efbbc9b7-6f3c-4b88-b940-41cc716e1e46)
+
 
 
 Page transition using GSAP, its simple elegant transition clean look 
