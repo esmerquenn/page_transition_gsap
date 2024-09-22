@@ -1,0 +1,43 @@
+.bars {
+  display: flex;
+  position: relative;
+}
+.bar {
+  min-height: 100vh;
+  background: #000;
+  position: fixed;
+  top: 0;
+  width: 25vw;
+}
+.bar1 {
+  left: 0;
+}
+.bar2 {
+  left: 25vw;
+}
+.bar3 {
+  left: 50vw;
+}
+.bar4 {
+  left: 75vw;
+}
+
+h1 {
+  position: absolute;
+  top: 35%;
+  left: 47%;
+  transform: translate(-35%, -47%);
+  font-size: 10vw;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px 50px;
+}
+button{
+  border: none;
+  border-bottom: 2px solid #8F1D2C;
+  background: white;
+  font-size: 2em;
+}
