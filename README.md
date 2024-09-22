@@ -5,6 +5,7 @@
 
 
 Page transition using GSAP, its simple elegant transition clean look 
+Transition with Bars
 
 Currently, two official plugins are available:
 
